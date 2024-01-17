@@ -1,0 +1,17 @@
+20240117
+problem with understanding loss function and optimizing function
+
+try to increase the acc by increasing the epoch
+acc increase from 70 to 82 by increasing the epoch 10 to 50
+
+change the sequential from ReLU to sigmoid
+acc decrease
+
+change the parameter from 512 to 256
+acc decrease
+
+change the hidder layer from 2 to 10
+acc only 10% left. what a disaster
+the Vanishing gradient problem 
+
+I still need to study some theory to understand more detail of the code
